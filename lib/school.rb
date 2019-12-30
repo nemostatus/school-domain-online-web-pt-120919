@@ -20,5 +20,5 @@ end
 def sort 
   hash = {}
   roster.each do |n,s|
-    hash = y.sort 
+    hash[n] = s.sort 
 
