@@ -16,7 +16,7 @@ class School
   end
   end
   end
-end
+
 def sort 
   hash = {}
   roster.each do |n,s|
@@ -24,5 +24,5 @@ def sort
   end
   hash
 end
-
+end
 
