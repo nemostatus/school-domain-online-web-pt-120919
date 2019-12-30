@@ -19,5 +19,5 @@ class School
 end
 def sort 
   hash = {}
-  roster.each do |
+  roster.each do |n,s|
 
