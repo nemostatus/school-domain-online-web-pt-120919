@@ -8,8 +8,6 @@ class School
   def add_student(student,num)
     @roster[num]||=[]
      @roster[num] << student
-  
-    
   end
 end
 
