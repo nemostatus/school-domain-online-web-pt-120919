@@ -11,5 +11,6 @@ class School
   end
   def grade(num)
     
+    
 end
 
