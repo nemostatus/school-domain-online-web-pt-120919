@@ -12,6 +12,7 @@ class School
   def grade(num)
     roster.detect do|n,s|
     if n == number
+      return s
     
 end
 
