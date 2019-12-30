@@ -22,4 +22,5 @@ def sort
   roster.each do |n,s|
     hash[n] = s.sort 
   end
+  hash
 
