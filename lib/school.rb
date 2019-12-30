@@ -10,7 +10,7 @@ class School
      @roster[num] << student
   end
   def grade(num)
-    roster.detect do|
+    roster.detect do|n,s|
     
 end
 
