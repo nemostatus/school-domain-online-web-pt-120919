@@ -11,4 +11,5 @@ class School
   
     
   end
+end
 
