@@ -24,4 +24,5 @@ def sort
   end
   hash
 end
+end
 
