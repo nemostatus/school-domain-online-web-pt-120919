@@ -23,4 +23,5 @@ def sort
     hash[n] = s.sort 
   end
   hash
+end
 
